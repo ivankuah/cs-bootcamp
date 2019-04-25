@@ -28,4 +28,4 @@
                  - filename: ${filename}
                  
                results:
-                 - SUCCESS:
+                 - SUCCESS
